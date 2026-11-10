@@ -110,3 +110,6 @@ Screenshot yang menunjukkan riwayat mood setelah pengguna menyimpan beberapa cat
 Melalui pembuatan aplikasi MyMood, saya dapat memahami bagaimana penggunaan State dan Event Handler bekerja dalam React Native. Saya juga belajar bahwa perubahan State dapat memengaruhi tampilan aplikasi secara langsung.
 
 Selain itu, tugas ini membantu saya memahami penggunaan Conditional Rendering untuk menampilkan komponen berdasarkan kondisi tertentu. Secara keseluruhan, aplikasi MyMood menjadi latihan untuk menerapkan materi yang sudah dipelajari ke dalam sebuah aplikasi mobile sederhana.
+
+link google doc https://docs.google.com/document/d/1R1U8TRGO70XyE95QgjVQZUsKId9AVbBDfTteFMw9iGY/edit?usp=sharing
+link expo snack https://snack.expo.dev/@cecilia186/p04-mymood-253303620009
